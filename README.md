@@ -26,7 +26,7 @@
 <h3 align="left">Connect with me:</h3>
 
 
-<img align="right" width="200" src="https://gifdb.com/images/file/pixelated-cartoon-guts-berserk-j3r9w6cgcod4mffd.gif">
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)
 
