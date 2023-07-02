@@ -18,13 +18,13 @@
 
 
 <br/>
-  <a align="left" href="https://github.com/chiratsxki/github-readme-stats"><img alt="chiratsxki Github Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=chiratsxki&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a align="right" href="https://github.com/chiratsxki/github-readme-stats"><img alt="Top Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=chiratsxki&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/chiratsxki/github-readme-stats"><img alt="chiratsxki Github Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=chiratsxki&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a  href="https://github.com/chiratsxki/github-readme-stats"><img alt="Top Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=chiratsxki&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 <br/>
   
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+
 
 <img align="right" width="200" src="https://gifdb.com/images/file/pixelated-cartoon-guts-berserk-j3r9w6cgcod4mffd.gif">
 
