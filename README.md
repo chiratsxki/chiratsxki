@@ -28,9 +28,7 @@
 
 <br/>
 
-[![LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=chiratsxki&theme=dark)](https://github.com/chiratsxki/leetcode-stats)
 
-[![codewars](https://www.codewars.com/users/chiratsxki/badges/large)](https://www.codewars.com/users/chiratsxki) 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
