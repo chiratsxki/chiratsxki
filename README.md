@@ -1,4 +1,4 @@
-<a href="#"><img width="1000" height="auto" src="https://media.tenor.com/RizT-AtAcfkAAAAC/berserk-guts.gif" height="100px"/></a>
+
 
 
 <p align="center">
